@@ -9,6 +9,6 @@ rm admin* test* genesis.block node*
 cd /Users/kuyseng/Blockchain/iroha/NBC/ACL
 rm admin* test* genesis.block node*
 
-# back to last directory
-cd /Users/kuyseng/Blockchain/iroha/NBC/
+cd /Users/kuyseng/Blockchain/iroha/NBC/FTB
+rm admin* test* genesis.block node*
 
