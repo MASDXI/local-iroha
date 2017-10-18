@@ -1,0 +1,7 @@
+{
+  "block_store_path" : "/Users/kuyseng/Blockchain/iroha/NBC/CAB/block_store/",
+  "torii_port" : 50554,
+  "pg_opt" : "host=localhost port=5436 user=postgres password=mysecretpassword",
+  "redis_host" : "localhost",
+  "redis_port" : 6383
+}

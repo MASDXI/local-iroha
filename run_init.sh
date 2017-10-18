@@ -19,6 +19,9 @@ docker run --name ACL-postgres -e POSTGRES_PASSWORD=mysecretpassword -p 5434:543
 # services for FTB
 docker run --name FTB-redis -p 6382:6379 -d redis:3.2.8
 docker run --name FTB-postgres -e POSTGRES_PASSWORD=mysecretpassword -p 5435:5432 -d postgres:9.5
+# services for CAB
+docker run --name CAB-redis -p 6383:6379 -d redis:3.2.8
+docker run --name CAB-postgres -e POSTGRES_PASSWORD=mysecretpassword -p 5436:5432 -d postgres:9.5
 
 # run ctest
 cd /Users/kuyseng/Blockchain/iroha/build
