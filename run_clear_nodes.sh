@@ -12,3 +12,6 @@ rm admin* test* genesis.block node*
 cd /Users/kuyseng/Blockchain/iroha/NBC/FTB
 rm admin* test* genesis.block node*
 
+cd /Users/kuyseng/Blockchain/iroha/NBC/CAB
+rm admin* test* genesis.block node*
+
