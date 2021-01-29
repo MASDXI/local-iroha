@@ -1,17 +1,17 @@
 #!/usr/local/bin/zsh
 
-cd /Users/kuyseng/Blockchain/iroha/NBC/
+cd <YOUR_PATH>Blockchain/iroha/singe-pc/Node-0
 rm admin* test* genesis.block node*
 
-cd /Users/kuyseng/Blockchain/iroha/NBC/ABA
+cd <YOUR_PATH>/Blockchain/iroha/singe-pc/Node-1
 rm admin* test* genesis.block node*
 
-cd /Users/kuyseng/Blockchain/iroha/NBC/ACL
+cd <YOUR_PATH>/Blockchain/iroha/singe-pc/Node-2
 rm admin* test* genesis.block node*
 
-cd /Users/kuyseng/Blockchain/iroha/NBC/FTB
+cd <YOUR_PATH>/Blockchain/iroha/singe-pc/Node-3
 rm admin* test* genesis.block node*
 
-cd /Users/kuyseng/Blockchain/iroha/NBC/CAB
+cd <YOUR_PATH>/Blockchain/iroha/singe-pc/Node-4
 rm admin* test* genesis.block node*
 

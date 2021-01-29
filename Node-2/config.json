@@ -1,5 +1,5 @@
 {
-  "block_store_path" : "/Users/kuyseng/Blockchain/iroha/NBC/ACL/block_store/",
+  "block_store_path" : "<YOUR_PATH>/Blockchain/iroha/singe-pc/block_store/",
   "torii_port" : 50552,
   "pg_opt" : "host=localhost port=5434 user=postgres password=mysecretpassword",
   "redis_host" : "localhost",
